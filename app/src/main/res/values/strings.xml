@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">ComposeBookTraningZone</string>
+
     <string name="label_welcome">Welcome Compose!</string>
+    <string name="label_hello">Hello, %1$s.\nNice to meet you.</string>
 </resources>
