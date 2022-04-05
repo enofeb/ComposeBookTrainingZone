@@ -11,6 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.enofeb.composebooktraningzone.chapterOne.ChapterOneScreen
+import com.enofeb.composebooktraningzone.chapterOne.ColorScreen
 import com.enofeb.composebooktraningzone.chapterOne.Factorial
 import com.enofeb.composebooktraningzone.ui.theme.ComposeBookTraningZoneTheme
 
@@ -24,7 +25,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Factorial()
+                    ColorScreen()
                 }
             }
         }
