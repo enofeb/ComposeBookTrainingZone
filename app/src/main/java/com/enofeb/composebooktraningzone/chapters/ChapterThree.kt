@@ -1,4 +1,4 @@
-package com.enofeb.composebooktraningzone.chapterOne
+package com.enofeb.composebooktraningzone.chapters
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background

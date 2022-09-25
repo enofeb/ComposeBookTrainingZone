@@ -1,4 +1,4 @@
-package com.enofeb.composebooktraningzone.chapterOne
+package com.enofeb.composebooktraningzone.chapters
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.text.KeyboardActions
